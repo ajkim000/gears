@@ -3,7 +3,7 @@
 **Alison Kim**
 Courant Institute of Mathematical Sciences, NYU
 
-![Simulation Video](animation.mp4)
+![Simulation Video](media/animation.mp4)
 
 ## Overview
 
