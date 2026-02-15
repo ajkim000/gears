@@ -16,10 +16,10 @@ The system is solved using the rigid penalty immersed boundary (pIB) method as w
 2. Run main.m
 
 ## Outputs
-- `Omega2_all` — passive rotor angular velocity over time  
-- `Torque_all` — hydrodynamic torque history  
+- Omega2_all — passive rotor angular velocity over time  
+- Torque_all — hydrodynamic torque history  
 - PNG frames of particle visualization  
-- Periodic `.mat` simulation snapshots
+- Periodic .mat simulation snapshots
 
 ## References
   Kim, Y. & Peskin, C.S. (2016).
