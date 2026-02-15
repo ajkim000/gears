@@ -1,6 +1,7 @@
 # Hydrodynamic Spin-Coupling of 2D Rotors
 
-**Alison Kim** \\
+**Alison Kim**
+
 Courant Institute of Mathematical Sciences, NYU
 
 ![Simulation Video](media/animation.gif)
