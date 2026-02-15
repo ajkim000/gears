@@ -15,9 +15,7 @@ The system is solved using the rigid penalty immersed boundary (pIB) method as w
 1. Set key parameters (such as geometry, fluid properties, grid size) in initialize.m  
 2. Run main.m
 
-```markdown
 ## Outputs
-
 - `Omega2_all` — passive rotor angular velocity over time  
 - `Torque_all` — hydrodynamic torque history  
 - PNG frames of particle visualization  
