@@ -8,7 +8,7 @@ Courant Institute of Mathematical Sciences, NYU
 
 ## Overview
 
-Numerical simulation in MATLAB of the fluid-mediated coupling between two rigid, disk-shaped rotors immersed in a 2D viscous incompressible fluid. The left rotor ('active') is driven at a prescribed angular velocity. The emergent angular velocity of the right rotor ('passive') is measured to quantify fluid-mediated spin coupling.
+Interactions between fluids and structures are an important area of fluid mechanics. However, they are often difficult to study: fluid movement affects the movement of a structure, which then affects the nearby fluid in turn, leading to a complex feedback process. Here, we simulate in MATLAB the fluid-mediated coupling between two rigid, disk-shaped rotors immersed in a 2D viscous incompressible fluid. The left rotor ('active') is driven at a prescribed angular velocity. The emergent angular velocity of the right rotor ('passive') is measured to quantify fluid-mediated spin coupling.
 
 The system is solved using the rigid penalty immersed boundary (pIB) method as well as an incompressible finite-difference FFT-based Navier–Stokes fluid solver on a periodic domain with semi-implicit timestepping.  
 
