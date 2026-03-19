@@ -1,6 +1,6 @@
 # Hydrodynamic Spin-Coupling of 2D Rotors
 
-**Alison Kim**
+**Alison Kim**, Maria Acuña, Jesse E Smith, Jun Zhang, Leif Ristroph, Charles S Peskin
 
 Courant Institute of Mathematical Sciences, NYU
 
